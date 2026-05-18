@@ -128,25 +128,6 @@ body{
     color:#2563eb;
 }
 
-/* About */
-.about{
-    padding:60px 40px;
-    background:#e0f2fe;
-    text-align:center;
-}
-
-.about h2{
-    margin-bottom:20px;
-    font-size:36px;
-}
-
-.about p{
-    max-width:700px;
-    margin:auto;
-    font-size:18px;
-    line-height:1.7;
-}
-
 /* Features Extra */
 .features-extra{
     padding:60px 40px;
@@ -190,6 +171,25 @@ body{
 .feature-item p{
     color:#666;
     line-height:1.6;
+}
+
+/* About */
+.about{
+    padding:60px 40px;
+    background:#e0f2fe;
+    text-align:center;
+}
+
+.about h2{
+    margin-bottom:20px;
+    font-size:36px;
+}
+
+.about p{
+    max-width:700px;
+    margin:auto;
+    font-size:18px;
+    line-height:1.7;
 }
 
 /* Projects Section */
